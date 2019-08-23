@@ -20,6 +20,7 @@ setuptools.setup(
         'odoo11-addon-website_form_metadata',
         'odoo11-addon-website_form_recaptcha',
         'odoo11-addon-website_google_tag_manager',
+        'odoo11-addon-website_hr_recruitment_legal',
         'odoo11-addon-website_img_dimension',
         'odoo11-addon-website_js_below_the_fold',
         'odoo11-addon-website_lazy_load_image',
@@ -33,6 +34,7 @@ setuptools.setup(
         'odoo11-addon-website_snippet_anchor',
         'odoo11-addon-website_snippet_preset',
         'odoo11-addon-website_snippet_timeline',
+        'odoo11-addon-website_video_preview',
     ],
     classifiers=[
         'Programming Language :: Python',
